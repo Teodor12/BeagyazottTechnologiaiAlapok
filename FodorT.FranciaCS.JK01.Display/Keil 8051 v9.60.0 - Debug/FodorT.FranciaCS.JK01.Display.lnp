@@ -1,0 +1,6 @@
+"./src/Display.OBJ",
+"./src/InitDevice.OBJ",
+"./src/Interrupts.OBJ",
+"./src/SILABS_STARTUP.OBJ",
+"./src/main.OBJ"
+TO "FODORT.FRANCIACS.JK01.DISPLAY.OMF.CRBUILD" REMOVEUNUSED PRINT(.\FodorT.FranciaCS.JK01.Display.m51) PAGEWIDTH (120) PAGELENGTH (65) CLASSES( ECODE(C:0x0 - C:0x1ffe), HCONST(C:0x0 - C:0x1ffe), XDATA(X:0x0 - X:0xff), HDATA(X:0x0 - X:0xff))
